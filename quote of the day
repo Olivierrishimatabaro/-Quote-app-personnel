@@ -1,0 +1,27 @@
+# Quote of the Day — Olivier Rishi Matabaro
+
+Mini-projet JavaScript / HTML / CSS — une petite application "humanisée"
+affichant des citations inspirantes. Idéal pour montrer une présence web
+simple et professionnelle sur GitHub.
+
+## Contenu
+- `index.html` — page principale
+- `style.css` — styles et palette (violet / turquoise)
+- `script.js` — logique JS (citations + partage)
+
+## Personnalisation
+- Remplace `avatar.png` par ta photo dans le même dossier (ou supprime la balise).
+- Modifie le slogan dans `index.html`.
+- Ajoute ou change les citations dans `script.js`.
+
+## Déployer sur GitHub Pages
+1. Crée un repo `quote-app-personnel` (ou un nom similaire).
+2. `git add .` / `git commit -m "Initial commit"` / `git push origin main`
+3. Dans GitHub → Settings → Pages → Source = `main` branch / root
+4. Ton site sera disponible à `https://<tonpseudo>.github.io/<repo>/`
+
+## Licence
+MIT — fais ce que tu veux.
+
+---
+Made with ❤️ pour la communauté — Olivier R. Matabaro
