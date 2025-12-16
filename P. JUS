@@ -1,0 +1,92 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <title>Projet Jus Naturels</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f5fdf7;
+            margin: 0;
+            padding: 0;
+            color: #333;
+        }
+
+        header {
+            background-color: #2e8b57;
+            color: white;
+            padding: 30px;
+            text-align: center;
+        }
+
+        section {
+            padding: 40px;
+            max-width: 900px;
+            margin: auto;
+        }
+
+        h2 {
+            color: #2e8b57;
+        }
+
+        .card {
+            background: white;
+            padding: 20px;
+            margin-top: 20px;
+            border-radius: 10px;
+            box-shadow: 0 4px 10px rgba(0,0,0,0.1);
+        }
+
+        footer {
+            background-color: #2e8b57;
+            color: white;
+            text-align: center;
+            padding: 15px;
+            margin-top: 40px;
+        }
+    </style>
+</head>
+
+<body>
+
+<header>
+    <h1>🍹 Projet de Production de Jus Naturels</h1>
+    <p>Du fruit local à la boisson saine</p>
+</header>
+
+<section>
+    <div class="card">
+        <h2>🌱 À propos du projet</h2>
+        <p>
+            Ce projet vise à produire des jus naturels à base de fruits locaux,
+            sans conservateurs chimiques, pour promouvoir une alimentation saine
+            et soutenir l’agriculture locale.
+        </p>
+    </div>
+
+    <div class="card">
+        <h2>🍊 Produits envisagés</h2>
+        <ul>
+            <li>Jus de mangue</li>
+            <li>Jus d’ananas</li>
+            <li>Jus de maracuja</li>
+            <li>Jus d’orange naturel</li>
+        </ul>
+    </div>
+
+    <div class="card">
+        <h2>🎯 Objectifs</h2>
+        <ul>
+            <li>Créer des emplois locaux</li>
+            <li>Valoriser les fruits locaux</li>
+            <li>Offrir des produits sains et accessibles</li>
+        </ul>
+    </div>
+</section>
+
+<footer>
+    <p>© 2025 - Projet Jus Naturels | Tous droits réservés</p>
+</footer>
+
+</body>
+</html>
